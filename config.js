@@ -1,5 +1,4 @@
-
-const secretKeys = []; 
+let secretKeys = [];
 
 module.exports = {
   secretKey: secretKeys, // Replace with a long, random string
